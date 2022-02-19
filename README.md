@@ -2,5 +2,5 @@
 
 - 🔭 I’m currently working on my YouTube Channel!
 - 🌱 I’m currently learning Algorithms and Data Structures
-- 👯 I’m looking for a Software Engineer intern position
+- 👯 I’m excited to join ServiceNow as a SWE intern!
 - 📚 I study at Georgia Institute of Technology
